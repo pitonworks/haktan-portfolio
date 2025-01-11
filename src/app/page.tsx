@@ -1,3 +1,5 @@
+"use client"
+
 import { ThemeToggle } from "@/components/theme-toggle"
 import { Scene } from "@/components/3d/scene"
 import { MobileNav } from "@/components/mobile-nav"
